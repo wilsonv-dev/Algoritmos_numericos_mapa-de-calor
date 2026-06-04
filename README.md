@@ -1,6 +1,6 @@
 # ☀️ Simulación Térmica de Panel Solar
 **Proyecto de Aula — Algoritmos Numéricos para Ingeniería | Corte 3**  
-Universidad de Pamplona · Docente: Sebastián Echavez Cadena
+
 
 ---
 
